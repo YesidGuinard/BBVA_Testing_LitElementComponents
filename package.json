@@ -1,0 +1,18 @@
+{
+  "name": "@cells-components/human-detector",
+  "version": "1.0.0-rc.1",
+  "description": "",
+  "keywords": [],
+  "main": "human-detector.js",
+  "dependencies": {
+    "@cells-components/cells-lit-helpers": "^1.0.0",
+    "@bbva-web-components/bbva-form-checkbox": "^2.0.0",
+    "@bbva-web-components/bbva-form-number": "^1.0.0",
+    "@bbva-web-components/bbva-button-default": "^3.0.0",
+    "@bbva-web-components/bbva-spinner": "^1.0.0",
+    "lit-element": "^2.0.0"
+  },
+  "devDependencies": {
+    "@cells/cells-component-core": "^2.0.0"
+  }
+}
